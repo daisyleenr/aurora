@@ -50,19 +50,19 @@ out/
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/node_modules
-/.pnp
+/aurora.web/node_modules
+/aurora.web/.pnp
 .pnp.js
 
 # testing
-/coverage
+/aurora.web/coverage
 
 # next.js
-/.next/
-/out/
+/aurora.web/.next/
+/aurora.web/out/
 
 # production
-/build
+/aurora.web/build
 
 # misc
 .DS_Store
